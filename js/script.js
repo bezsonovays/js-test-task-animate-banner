@@ -48,7 +48,7 @@ const createSlider = async () => {
                 loop: true,
                 auto: true,
                 slideMargin: 0,
-                speed: 200,
+                speed: 600,
                 controls: false,
                 pause: 5000,
            });
